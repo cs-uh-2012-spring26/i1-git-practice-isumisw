@@ -5,3 +5,5 @@ wsw2028@nyu.edu
 
 # Git Practice
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
+
+Forking workflow merged repo: [https://github.com/cs-uh-2012-spring26/i1-git-practice-nadja2506.git](https://github.com/cs-uh-2012-spring26/i1-git-practice-nadja2506.git)
